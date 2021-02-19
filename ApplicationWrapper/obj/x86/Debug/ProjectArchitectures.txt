@@ -1,0 +1,1 @@
+C:\Users\lr\source\repos\ApplicationWrapper\ApplicationWrapper\ApplicationWrapper.csproj;x86
